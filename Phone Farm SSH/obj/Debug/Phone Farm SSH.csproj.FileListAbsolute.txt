@@ -1,0 +1,86 @@
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Phone Farm SSH.exe.config
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Phone Farm SSH.exe
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Phone Farm SSH.pdb
+D:\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone Farm SSH.csprojResolveAssemblyReference.cache
+D:\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone_Farm_SSH.Properties.Resources.resources
+D:\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone Farm SSH.csproj.GenerateResource.Cache
+D:\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone Farm SSH.exe
+D:\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone Farm SSH.pdb
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Renci.SshNet.Async.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Renci.SshNet.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Renci.SshNet.xml
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Renci.SshNet.Async.xml
+D:\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone_Farm_SSH.Frm_PhoneFarmSSHClient.resources
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\KAutoHelper.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\concrt140.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\cvextern.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\msvcp140.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\vcruntime140.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\concrt140.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\cvextern.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\msvcp140.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\vcruntime140.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Emgu.CV.UI.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Emgu.CV.World.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\ZedGraph.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Emgu.CV.UI.xml
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\Emgu.CV.World.xml
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\ZedGraph.xml
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\de\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\es\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\fr\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\hu\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\it\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\ja\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\pt\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\ru\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\sk\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\sv\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\tr\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Phone Farm SSH\Phone Farm SSH\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Phone Farm SSH.exe.config
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone Farm SSH.exe
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone Farm SSH.pdb
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\concrt140.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\cvextern.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\msvcp140.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x64\vcruntime140.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\concrt140.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\cvextern.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\msvcp140.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\x86\vcruntime140.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Phone Farm SSH.exe
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Phone Farm SSH.pdb
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Emgu.CV.World.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\KAutoHelper.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Emgu.CV.World.xml
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Renci.SshNet.xml
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\ZedGraph.xml
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone Farm SSH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone_Farm_SSH.Frm_PhoneFarmSSHClient.resources
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone_Farm_SSH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Phone Farm SSH\Phone Farm SSH\obj\Debug\Phone Farm SSH.csproj.GenerateResource.Cache
